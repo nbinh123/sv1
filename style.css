@@ -61,7 +61,7 @@ body .solar_systm .planet {
     box-shadow 0s 0s;
   background-size: 1140px 910px !important;
   top: auto;
-  bottom: -970px;
+  bottom: -870px;
 }
 body .solar_systm .planet .moon {
   height: 200px;
